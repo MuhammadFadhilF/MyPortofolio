@@ -1,21 +1,35 @@
+🌐 Portofolio Pribadi
 
-# Portfolio Starter (HTML/CSS/JS)
+Ini adalah repositori portofolio pribadi saya yang dibangun menggunakan HTML, CSS, dan JavaScript tanpa framework tambahan. Proyek ini saya buat untuk menampilkan profil, keterampilan, dan beberapa karya yang sudah saya kerjakan.
 
-Langsung pakai untuk portofolio pribadi. Fitur:
-- Desain modern, responsif, dark/light mode dengan toggle
-- Navigasi sticky + drawer mobile
-- Bagian: Hero, About, Projects (filter), Skills (progress), Contact (form)
-- Aksesibilitas dasar, SEO meta + OpenGraph + JSON-LD
-- Tanpa framework—mudah di-host di GitHub Pages, Vercel, Netlify
+✨ Fitur Utama
 
-## Cara Pakai
-1. Ganti teks "Nama Kamu" dan tautan sosial di `index.html`.
-2. Ubah email di `assets/js/main.js` (bagian `mailto:`) atau pasang endpoint Formspree/Basin untuk form kontak.
-3. Ganti gambar di `assets/img/` (avatar dan project-*). Pakai format `.jpg/.png/.webp` dan gunakan atribut `loading="lazy"`.
-4. (Opsional) taruh CV sebagai `assets/Nama-Kamu-CV.pdf`.
-5. Deploy:
-   - **GitHub Pages**: buat repo, push, aktifkan Pages (branch `main`, folder `/root`).
-   - **Vercel/Netlify**: import project, pilih root folder.
+Desain modern, responsif, dengan mode dark/light toggle
 
-## Lisensi
-MIT — silakan pakai dan modifikasi.
+Navigasi sticky dan drawer khusus mobile
+
+Bagian utama: Hero, About, Projects (dengan filter), Skills (progress bar), Contact (form kontak)
+
+Aksesibilitas dasar + SEO (meta, OpenGraph, JSON-LD)
+
+Ringan dan mudah di-host di GitHub Pages, Vercel, atau Netlify
+
+⚡ Cara Kustomisasi
+
+Ubah teks nama dan tautan sosial di index.html
+
+Edit email di assets/js/main.js (bagian mailto:) atau hubungkan dengan Formspree/Basin
+
+Ganti gambar di folder assets/img/ (avatar + project preview)
+
+(Opsional) tambahkan CV di assets/Nama-Kamu-CV.pdf
+
+🚀 Deploy
+
+GitHub Pages → push repo, aktifkan Pages (branch main)
+
+Vercel / Netlify → import repo langsung, pilih root folder
+
+📄 Lisensi
+
+MIT — Bebas digunakan dan dimodifikasi.
